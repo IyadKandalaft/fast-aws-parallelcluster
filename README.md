@@ -42,7 +42,7 @@ git clone https://github.com/IyadKandalaft/fast-aws-parallelcluster
 cd fast-aws-parallelcluster
 ```
 
-# Create the Cluster
+### Create the Cluster
 
 Change into the directory and execute start_cluster.sh
 
@@ -50,7 +50,7 @@ Change into the directory and execute start_cluster.sh
 ./create_cluster.sh
 ```
 
-# Deleting the Cluster
+### Deleting the Cluster
 
 ```
 ./delete_cluster.sh
